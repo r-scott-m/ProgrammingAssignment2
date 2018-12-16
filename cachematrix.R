@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 
-#blahblahaaaaaaazzzzzz
+#blahblahaaaaaaaaaazzzzzz
 
 makeCacheMatrix <- function(x = matrix()) {
 
